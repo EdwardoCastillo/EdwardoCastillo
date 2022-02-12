@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdwardoCastillo
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Front End Dev
-- 💞️ I’m looking to collaborate with FinTech related projects, but open to anything
+- 💞️ I’m looking to collaborate with anything that will be challenging yet rewarding
 - 📫 Will update contact info in near future
 
 <!---
